@@ -1,1 +1,1 @@
-# github-templates
+# Collection of GitHub Templates
